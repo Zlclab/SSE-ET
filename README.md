@@ -7,7 +7,7 @@ dataset  Camellia21.fasta
 code  SSE-ET-10cv.ipynb
 
 
-## independent test
+## Independent Set Test
 dataset  train_test_data.fasta  
 code  SSE-ET-test.ipynb
 
